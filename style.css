@@ -1,0 +1,17 @@
+/* selector con etiquetas html */
+h1 {
+    color: rgb(138, 152, 232);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    color: rgba(184, 134, 231, 0.794);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    color: rgb(151, 49, 18);
+    font-family: fantasy;
+}
+div h3 {
+    color: rgb(140, 65, 148);
+    font-family: sans-serif;
+}
